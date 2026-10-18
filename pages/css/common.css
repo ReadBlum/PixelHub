@@ -1,0 +1,53 @@
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.all-nav {
+  display: flex;
+}
+
+.all-nav nav {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+}
+
+.logo {
+  display: flex;
+  padding-top: 5px;
+  align-items: center;
+  width: 100%;
+}
+
+.nav-bar {
+  display: flex;
+  font-size: 25px;
+  align-items: center;
+  width: 100%;
+  margin-right: 250px;
+}
+
+.nav-bar-right {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 48px;
+  padding: 20px;
+}
+
+.current-page {
+  color: #8b5cf6;
+  border-bottom: 3px solid #8b5cf6;
+  padding-bottom: 10px;
+  border-radius: 2px;
+}
+
+.container {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.socials {
+  display: flex;
+}

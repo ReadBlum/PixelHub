@@ -1,0 +1,117 @@
+.hero {
+  padding-top: 150px;
+}
+
+.game-community {
+  color: #8b5cf6;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.title {
+  max-width: 450px;
+  font-size: 48px;
+}
+
+.sub-title {
+  max-width: 540px;
+  font-size: 24px;
+  color: grey;
+  padding-bottom: 25px;
+}
+
+.catalog-button {
+  background-color: #8b5cf6;
+  border-radius: 8px;
+  padding: 10px 40px;
+  color: white;
+  font-weight: 600;
+}
+
+.games-title {
+  margin-top: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.games-title a {
+  font-size: 24px;
+  color: #8b5cf6;
+}
+
+.games img {
+  border-radius: 15px;
+}
+
+.games {
+  display: flex;
+  gap: 60px;
+}
+
+.last-news {
+  margin-bottom: 100px;
+}
+
+.news-title {
+  margin-top: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.news-title a {
+  font-size: 24px;
+  color: #8b5cf6;
+}
+
+.news p {
+  color: grey;
+  width: 280px;
+}
+
+.news img {
+  border-radius: 15px;
+}
+
+.news {
+  display: flex;
+  gap: 60px;
+}
+
+.arrow {
+  color: #8b5cf6;
+  font-weight: 700;
+}
+
+footer {
+  background-color: rgb(60, 60, 78);
+  padding-top: 20px;
+  color: rgb(160, 159, 159);
+}
+
+.logo-footer {
+  display: flex;
+  font-size: 12px;
+  align-items: center;
+}
+
+.logo-footer h1 {
+  color: white;
+}
+
+.nav-footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  transform: translateY(-70px);
+}
+
+.nav-footer a {
+  color: rgb(160, 159, 159);
+  gap: 20px;
+}
