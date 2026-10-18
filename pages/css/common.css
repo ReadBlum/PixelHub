@@ -51,3 +51,15 @@ a {
 .socials {
   display: flex;
 }
+
+h1,
+h2,
+h3,
+p,
+a {
+  color: white;
+}
+
+body {
+  background-color: #383d40;
+}
