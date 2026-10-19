@@ -63,3 +63,13 @@ a {
 body {
   background-color: #383d40;
 }
+
+.other-games {
+  display: flex;
+  gap: 60px;
+  margin-bottom: 50px;
+}
+
+.other-games img {
+  border-radius: 15px;
+}

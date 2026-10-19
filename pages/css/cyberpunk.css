@@ -1,0 +1,57 @@
+.cyberpunk-img {
+  border-radius: 15px;
+}
+
+.cp-title {
+  font-size: 48px;
+}
+
+.cp-sub-title {
+  font-size: 24px;
+}
+
+.cp-description {
+  width: 500px;
+  color: rgb(160, 159, 159);
+}
+
+.cp-description-second {
+  width: 500px;
+}
+
+.about-cyberpunk {
+  display: flex;
+  gap: 30px;
+}
+
+.about-cyberpunk-card {
+  background-color: #8b5cf6;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.game-features {
+  margin-bottom: 50px;
+}
+
+.game-features h2 {
+  margin-top: 50px;
+}
+
+.game-features h3 {
+  margin-bottom: 5px;
+}
+
+.game-features p {
+  margin-top: 0px;
+  color: rgb(160, 159, 159);
+}
+
+.game-screenshots {
+  display: flex;
+  gap: 60px;
+}
+
+.game-screenshots img {
+  border-radius: 15px;
+}
