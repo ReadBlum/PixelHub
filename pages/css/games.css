@@ -1,30 +1,30 @@
-.cyberpunk-img {
+.game-img {
   border-radius: 15px;
 }
 
-.cp-title {
+.game-title {
   font-size: 48px;
 }
 
-.cp-sub-title {
+.game-sub-title {
   font-size: 24px;
 }
 
-.cp-description {
+.game-description {
   width: 500px;
   color: rgb(160, 159, 159);
 }
 
-.cp-description-second {
+.game-description-second {
   width: 500px;
 }
 
-.about-cyberpunk {
+.about-game {
   display: flex;
   gap: 30px;
 }
 
-.about-cyberpunk-card {
+.about-game-card {
   background-color: #8b5cf6;
   padding: 5px;
   border-radius: 10px;
