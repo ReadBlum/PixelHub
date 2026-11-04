@@ -13,3 +13,13 @@
   color: rgb(187, 187, 187);
   width: 250px;
 }
+
+@media (max-width: 768px) {
+  .catalog-games-line {
+    flex-direction: column;
+  }
+
+  .catalog-games-line img {
+    width: 375px;
+  }
+}

@@ -84,3 +84,41 @@ header {
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
 }
+
+@media (max-width: 768px) {
+  .all-nav {
+    font-size: 10px;
+  }
+
+  .all-nav nav {
+    font-size: 10px;
+    gap: 10px;
+    width: 30%;
+  }
+
+  .nav-bar {
+    font-size: 10px;
+    gap: 5px;
+  }
+
+  .nav-bar-right img {
+    width: 12px;
+  }
+
+  .nav-bar-right {
+    justify-content: left;
+  }
+
+  .logo h1 {
+    display: none;
+  }
+
+  .logo img {
+    width: 78px;
+  }
+
+  .container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}

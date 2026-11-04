@@ -100,3 +100,25 @@
   right: 10px;
   top: -10px;
 }
+
+@media (max-width: 768px) {
+  .events-line {
+    flex-direction: column;
+  }
+
+  .events-line img {
+    width: 375px;
+  }
+
+  .events-title {
+    width: 100%;
+  }
+
+  .events-sub-title {
+    width: 100%;
+  }
+
+  .event-card {
+    width: 375px;
+  }
+}

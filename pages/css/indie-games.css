@@ -28,6 +28,7 @@
   width: 420px;
   background-color: #404346;
   position: relative;
+  display: inline-block;
 }
 
 .indie-genre {
@@ -41,4 +42,27 @@
 
 .indie-card-about {
   margin-left: 10px;
+}
+
+.indie-card:hover {
+  transform: translateY(-25px);
+  transition: transform 300ms ease;
+}
+
+@media (max-width: 768px) {
+  .indie-games-line {
+    flex-direction: column;
+  }
+
+  .indie-games-line img {
+    width: 375px;
+  }
+
+  .indie-card {
+    width: 375px;
+  }
+
+  .indie-title {
+    width: 100%;
+  }
 }
