@@ -7,7 +7,6 @@
 
 .news-full p {
   color: rgb(187, 187, 187);
-  width: 600px;
   width: 400px;
 }
 
@@ -74,6 +73,15 @@
   }
 
   .news-full img {
-    width: 375px;
+    width: 320px;
+  }
+
+  .news-full p {
+    color: rgb(187, 187, 187);
+    width: 320px;
+  }
+
+  .news-full h2 {
+    width: 320px;
   }
 }
